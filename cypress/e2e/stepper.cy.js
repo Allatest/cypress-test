@@ -1,4 +1,4 @@
-describe('First Test', () => {
+describe('Stepper', () => {
 
     it('Check the page', () => {
         cy.visit('http://localhost:4200/pages/layout/stepper');

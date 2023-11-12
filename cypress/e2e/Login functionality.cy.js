@@ -1,4 +1,4 @@
-describe('Third Test', () => {
+describe('Login functionality', () => {
 
     it('LogIn', () => {
 cy.visit('http://localhost:4200/pages/forms/layouts');

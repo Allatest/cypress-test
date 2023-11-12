@@ -1,4 +1,4 @@
-describe('Second Test', () => {
+describe('Layouts', () => {
 
     it('Check the page', () => {
         cy.visit('http://localhost:4200/pages/modal-overlays/dialog');
